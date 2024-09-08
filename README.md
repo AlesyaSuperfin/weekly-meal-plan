@@ -5,7 +5,7 @@
 
 [Link for the application](https://alesya-superfin-weekly-meal-plan.netlify.app/)
 
-![Product Name Screen Shot](https://github.com/AlesyaSuperfin/weekly-meal-plan/edit/main/README.md#:~:text=Screenshot-,2024,-%2D09%2D08%20at)
+![Product Name Screen Shot](https://github.com/AlesyaSuperfin/weekly-meal-plan/edit/main/README.md#:~:text=MyMealsAndIngredients.js-,Screenshot,-2024%2D09%2D08)
 
 I created Weekly Meal Plan application to learn how to work with Props, useState(), useEffect and localStorage.
 
