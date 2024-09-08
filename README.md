@@ -3,9 +3,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Link for the application](https://alesya-superfin-recipe-search.netlify.app/)
+[Link for the application](https://alesya-superfin-weekly-meal-plan.netlify.app/)
 
-![Product Name Screen Shot](https://github.com/AlesyaSuperfin/recipe-search/blob/main/src/recipe-search.jpg)
+![Product Name Screen Shot](https://github.com/AlesyaSuperfin/weekly-meal-plan/edit/main/README.md#:~:text=Screenshot-,2024,-%2D09%2D08%20at)
 
 I created Weekly Meal Plan application to learn how to work with Props, useState(), useEffect and localStorage.
 
@@ -14,7 +14,6 @@ I created Weekly Meal Plan application to learn how to work with Props, useState
 * You can write create your daily meal plan, write ingredients and application memorize all your notes throught the localStorage.
 * Simple and nice design!
 
-![Product Name Screen Shot](https://github.com/AlesyaSuperfin/recipe-search/blob/main/src/recipe-search_mob.jpg)
 
 
 
