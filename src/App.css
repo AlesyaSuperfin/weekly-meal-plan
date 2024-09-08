@@ -14,6 +14,10 @@
   left: 0;
   background: url(food.jpg);
   z-index: -1;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-height: 100vh;
+  background-color: black;
 }
 
 .App {
@@ -150,7 +154,7 @@ footer {
 
 @media all and (max-width: 800px) {
 
-  body {
+  .fixed-background {
     background-position: center;
   }
 

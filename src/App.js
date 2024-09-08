@@ -43,7 +43,8 @@ function App() {
   }
 
   return (
-    <div className='fixed-background'>
+    <div>
+    <div className='fixed-background'> </div>
     <div className="App">
       <MyList 
         mealPlans={mealPlans} 
